@@ -161,7 +161,7 @@ p {
 }
 
 .author-avatar{
-    box-sizing: 2rem;
+    block-size: 2rem;
     inline-size: 2rem;
     border-radius: 50%;
     -webkit-border-radius: 50%;
